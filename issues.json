@@ -664,6 +664,33 @@
             "info": "This book is assembled from lectures given by the author over a period of 10 years at the School of Computing of DePaul University. The lectures cover multiple classes, including Analysis and Design of Algorithms, Scientific Computing, Monte Carlo Simulations, and Parallel Algorithms.",
             "url": "https://raw.githubusercontent.com/mdipierro/nlib/master/docs/book_numerical.pdf",
             "cover": "img/annotated-algorithms.jpg"
-        }
+        },
+        {
+            "title": "Python for Everybody",
+            "author": "Charles R. Severance",
+            "authorUrl": "http://www.dr-chuck.com/",
+            "level": "Beginner",
+            "info": "The goal of this book is to provide an Informatics-oriented introduction to programming. The primary approach taken in this book is using Python to solve data analysis problems common in the world of Informatics.",
+            "url": "https://www.py4e.com/book",
+            "cover": "img/cover_python4everybody.jpg"
+        },
+        {
+            "title": "20 Python libraries You Aren't Using (But Should)",
+            "author": "Caleb Hattingh",
+            "authorUrl": "http://www.oreilly.com/pub/au/6789",
+            "level": "Intermediate",
+            "info": "The Python ecosystem is vast and far-reaching in both scope and depth. Starting out in this crazy, open-source forest is daunting, and even with years of experience, it still requires continual effort to keep up-to-date with the best libraries and techniques. This report helps you explore some of the lesser known Python libraries and tools, including third-party modules and several extremely useful tools in the standard library that deserve more attention",
+            "url": "http://www.oreilly.com/programming/free/20-python-libraries-you-arent-using-but-should.csp",
+            "cover": "img/cover_20_python.png"
+        },
+        {
+            "title": "Advanced Machine Learning with Python",
+            "author": "John Hearty",
+            "authorUrl": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning",
+            "level": "ADVANCED",
+            "info": "[registration] Solve challenging data science problems by mastering cutting-edge machine learning techniques in Python",
+            "url": "https://www.packtpub.com/packt/free-ebook/advanced-python-machine-learning",
+            "cover": "img/Advanced-Machine-Learning-with-Python.jpg"
+        }              
     ]
 }
